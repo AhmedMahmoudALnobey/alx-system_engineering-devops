@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm now a ALX Student, this is my repository for devops tasks 
+0x02-shell_redirections task in alx program
